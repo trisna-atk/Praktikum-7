@@ -1,0 +1,47 @@
+.box1{
+    background-color: lightpink;
+    width: 20%;
+    height: 700px; 
+    margin: 2.5% 2%;
+
+
+}
+
+.box2{
+    background-color: lightsalmon;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+
+
+}
+
+.box3{
+    background-color:lightgreen;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+
+
+}
+
+.box4{
+    background-color: lightskyblue;
+    width: 20%;
+    height: 700px;
+    margin: 2.5% 2%;
+
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+img{
+    width: 300px;
+    margin: 0em 2em;
+}
